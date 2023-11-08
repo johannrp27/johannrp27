@@ -22,10 +22,10 @@ Additionally, I'm delving into the intriguing realm of web3 and smart contracts.
 <br>
 
 <a href="https://github.com/johannrp27">
-  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannrp27&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Johann's Top Langs"/>
+  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannrp27&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Johann's Top Langs"/>
 </a>
 
 
 <a href="https://github.com/johannrp27">
-  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api?username=johannrp27&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Johann's Stats"/>
+  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api?username=johannrp27&theme=react&show_icons=true&hide_border=true&count_private=true&layout=compact&line_height=22" alt="Johann's Stats"/>
 </a>
