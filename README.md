@@ -14,7 +14,7 @@ Let's build connections! Feel free to reach out on LinkedIn. I'm always up for d
 
 
 ### 🌱 Learning Journey
-Embarking on a journey beyond the usual paths, I'm currently diving into the realms of three.js and the exciting world of 3D on the web. Exploring the possibilities of VR applications and mixed reality adds a captivating layer to my learning adventure. These emerging fields not only pique my curiosity but also drive my passion for pushing the boundaries of web development.
+Embarking on a journey beyond the usual paths, I'm currently diving into three.js and the exciting world of 3D on the web. Exploring the possibilities of VR applications and mixed reality adds a captivating layer to my learning adventure. These emerging fields not only ignite my curiosity but also drive my passion for pushing the boundaries of web development.
 
 Additionally, I'm delving into the intriguing realm of web3 and smart contracts. Navigating these innovative landscapes fuels my belief in perpetual learning, ensuring I stay not just informed but actively engaged in the evolving landscape of web development trends.
 
