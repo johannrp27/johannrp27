@@ -10,7 +10,7 @@ Passionate about mastering the art of web development, I specialize in Javascrip
 ### 📫 Connect With Me 
 
 Let's build connections! Feel free to reach out on LinkedIn. I'm always up for discussions, collaborations, or just sharing a virtual coffee.
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/edfbarong/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/johannrp27/)
 
 
 ### 🌱 Learning Journey
