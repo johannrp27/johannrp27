@@ -2,7 +2,7 @@
 
 Welcome to my coding world, where creativity meets code! 👨‍💻
 
-I find joy in crafting seamless web experiences as a Front-end Developer. Currently immersed in the realm of financial micro-frontends at [Modyo](https://www.modyo.com/), I blend cutting-edge technologies to build the future of web interfaces.
+I find joy in crafting seamless web experiences as a Front-end Developer. I blend cutting-edge technologies to build the future of web interfaces.
 
 ### 🚀 What Fires Me Up
 Passionate about mastering the art of web development, I specialize in Javascript, HTML, and CSS, weaving magic with frameworks, preprocessors, and packagers. I thrive on continuous learning, with a current focus on expanding my expertise in React, delving into the complexities of backend development, and refining my skills in SASS.
